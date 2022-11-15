@@ -1,10 +1,19 @@
 {
-    "name": "Scone",
-    "version": "1.0.0",
-    "description": "My First Bot Made With Discord.js!",
-    "main": "index.js",
-    "dependencies": {
-        "discord.js": "^11.3.0"
-    },
-    "author": "im-aeo"
+  "name": "idbot",
+  "version": "0.0.1",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "mysql": "^2.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "bot.js"
+  },
+  "author": "im-aeo",
+  "license": "MIT",
+  "description": "My Special Bot",
+  "keywords": [
+    "bot"
+  ]
 }
